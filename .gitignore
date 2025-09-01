@@ -2,7 +2,7 @@
 node_modules/
 
 # Logs
-logs
+logs/
 *.log
 
 # OS files
@@ -18,6 +18,4 @@ test-results/
 playwright-report/
 videos/
 screenshots/
-
-allure-results
-test-results
+allure-results/
