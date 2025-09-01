@@ -1,0 +1,10 @@
+{
+  "admin": { "username": "zubair.hasan@byslglobal.com", "password": "12345678" },
+  "migration": { "username": "migration@byslglobal.com", "password": "159159Bysl" },
+  "tauhedul": { "username": "tauhedul.amin@byslglobal.com", "password": "12345678" },
+  "sahedul": { "username": "sahedul.hasan@byslglobal.com", "password": "12345678" },
+  "yasir": { "username": "mohammed.yasir@byslglobal.com", "password": "12345678" },
+  "shahriar": { "username": "shahriar.haque@byslglobal.com", "password": "12345678" },
+  "babul": { "username": "babul.hossain@byslglobal.com", "password": "12345678" },
+  "srd": { "username": "srd@byslglobal.com", "password": "12345678" }
+}
