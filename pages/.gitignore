@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+user.json
+allure-results
+
+# Playwright reports & artifacts
+reports/
+test-results/
+playwright-report/
+videos/
+screenshots/
