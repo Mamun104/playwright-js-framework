@@ -7,7 +7,7 @@ It is designed to support **UI test automation** with modern features like Page 
 
 The framework is **modular, maintainable, and easy to scale** for larger test suites.
 
-<img width="646" height="400" alt="image" src="https://github.com/user-attachments/assets/5f5305d0-b842-483d-8e8b-143df16e8677" />
+<img width="658" height="2000" alt="image" src="https://github.com/user-attachments/assets/b26719af-a59d-4bd1-b1a9-1962f5af1630" />
 
 ---
 
