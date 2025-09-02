@@ -31,6 +31,18 @@ git --version
 
 ---
 
+## Technologies & Tools Used
+
+| Tool / Library                 | Purpose                            |
+| ------------------------------ | ---------------------------------- |
+| JavaScript (Node.js)           | Programming language               |
+| Playwright                     | Cross-browser automation framework |
+| Mocha / Playwright Test Runner | Test execution                     |
+| Allure / HTML Report           | Test reporting                     |
+| GitHub Actions (CI)            | Continuous Integration (optional)  |
+
+---
+
 ## How to Run This Project
 
 Clone the repository and install dependencies:
@@ -60,18 +72,6 @@ Open the HTML report:
 ```bash
 npx playwright show-report
 ```
-
----
-
-## Technologies & Tools Used
-
-| Tool / Library                 | Purpose                            |
-| ------------------------------ | ---------------------------------- |
-| JavaScript (Node.js)           | Programming language               |
-| Playwright                     | Cross-browser automation framework |
-| Mocha / Playwright Test Runner | Test execution                     |
-| Allure / HTML Report           | Test reporting                     |
-| GitHub Actions (CI)            | Continuous Integration (optional)  |
 
 ---
 
